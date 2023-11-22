@@ -1,5 +1,5 @@
 // Declaração de variáveis
-const int relePin = A0; // Pino ao qual o relé está conectado
+const int relePin = A0; // Pino ao qual o relé está conectado = A0
 
 // Função setup()
 void setup() {
